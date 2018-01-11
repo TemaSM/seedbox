@@ -2,7 +2,9 @@
 
 Uploading and downloading files
 
-## Usage
+⚠️ This project is no longer maintained. ⚠️
+
+## Usage
 
 This image uses [timonier/aria2](https://github.com/timonier/aria2), [timonier/cakebox](https://github.com/timonier/cakebox) and [timonier/webui-aria2](https://github.com/timonier/webui-aria2). An example of usage is provided with `docker-compose`:
 
